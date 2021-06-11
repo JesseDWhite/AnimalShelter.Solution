@@ -10,5 +10,10 @@ namespace AnimalShelter.Models
     }
 
     public DbSet<Animal> Animals { get; set; }
+    protected override void OnModelCreating(ModelBuilder builder)
+    {
+      builder.Entity<Animal>()
+      .HasData();
+    }
   }
 }
