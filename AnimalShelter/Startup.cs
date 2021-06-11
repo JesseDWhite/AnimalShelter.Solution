@@ -35,7 +35,7 @@ namespace AnimalShelter
           Version = "v1",
           Title = "Blind Cat Rescue API",
           Description = "An API for a local Animal Shelter, Blind Cat Rescue. Use these query commands to search through their inventory.",
-          TermsOfService = new Uri("https://example.com/terms"),
+          TermsOfService = new Uri("https://www.sadanduseless.com/legs-or-sausages-gallery/"),
           Contact = new OpenApiContact
           {
             Name = "Jesse White",
@@ -45,7 +45,7 @@ namespace AnimalShelter
           License = new OpenApiLicense
           {
             Name = "Use under LICX",
-            Url = new Uri("https://example.com/license"),
+            Url = new Uri("https://www.sadanduseless.com/legs-or-sausages-gallery/"),
           }
         });
       });

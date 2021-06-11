@@ -54,7 +54,7 @@ _Blind Cat Rescue takes in all types of animals, but has a soft spot for blind c
 
 ### 🕺 Swagger
 
-1. To access the Swagger Documentation for API calls for GET, PUT, and POST please see below:
+_To access the Swagger Documentation for API calls for GET, PUT, and POST please see below:_
  - Run the application within `{AnimalShelter.Solution/AnimalShelter}` in your command line.
  - Once the application is running access the swagger documentation for API calls, go to `http://localhost:5004/index.html`
     - You can also follow this link while the program is running [Swagger](http://localhost:5004/index.html).
