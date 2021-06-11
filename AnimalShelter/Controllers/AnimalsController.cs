@@ -53,20 +53,20 @@ namespace AnimalShelter.Controllers
       return animal;
     }
 
-    [HttpGet("{id}")]
-    public async Task<ActionResult<Animal>> GetRandom(int id)
-    {
-      Random rnd = new Random();
-      int roll = rnd.Next(1, 7);
-      var animal = await _db.Animals.FindAsync(roll);
+    // [HttpGet("{id}")]
+    // public async Task<ActionResult<Animal>> GetRandom(int id)
+    // {
+    //   Random rnd = new Random();
+    //   int roll = rnd.Next(1, 7);
+    //   var animal = await _db.Animals.FindAsync(roll);
 
-      if (animal == null)
-      {
-        return NotFound();
-      }
+    //   if (animal == null)
+    //   {
+    //     return NotFound();
+    //   }
 
-      return animal;
-    }
+    //   return animal;
+    // }
 
     [HttpPut("{id}")]
     public async Task<IActionResult> Put(int id, Animal animal)

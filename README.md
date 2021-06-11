@@ -78,14 +78,16 @@ _To access the Swagger Documentation for API calls for GET, PUT, and POST please
 
 ### Sample JSON Response
 ```
-{
-  "AnimalId": 1,
-  "AnimalName": "Biscuit",
-  "AnimalType": "Cat",
-  "Gender": "Female",
-  "Age": 10,
-  "Description": "Loves long walks on the beach... and biscuits."
-}
+[
+  {
+    "AnimalId": 1,
+    "AnimalName": "Biscuit",
+    "AnimalType": "Cat",
+    "Gender": "Female",
+    "Age": 10,
+    "Description": "Loves long walks on the beach... and biscuits."
+  }
+]
 ```
 
 ## 🐛 Known Bugs
