@@ -32,6 +32,8 @@ namespace AnimalShelter.Controllers
       {
         query = query.Where(entry => entry.AnimalType == animalType);
       }
+
+      return await query.ToListAsync();
     }
 
     [HttpGet("{id}")]
@@ -78,10 +80,10 @@ namespace AnimalShelter.Controllers
     [HttpPost]
     public async Task<ActionResult<Animal>> PostAnimal(Animal animal)
     {
-      _db.Animal.Add(animal);
+      _db.Animals.Add(animal);
       await _db.SaveChangesAsync();
 
-      return CreatedArAction("GetAnimal", new { id = animal.AnimalId }, animal);
+      return CreatedAtAction("GetAnimal", new { id = animal.AnimalId }, animal);
     }
 
     [HttpDelete("{id}")]
