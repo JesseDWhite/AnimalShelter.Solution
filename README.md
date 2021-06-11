@@ -27,6 +27,13 @@ _Blind Cat Rescue takes in all types of animals, but has a soft spot for blind c
    - Create an `appsettings.json` file in the `{AnimalShelter}` directory
    - Copy the text box below and paste into the `appsettings.json` file, replacing `<password>` with your MySQL password:
    ```
+        "Logging": {
+         "LogLevel": {
+           "Default": "Warning",
+           "System": "Information",
+           "Microsoft": "Information"
+         }
+      },
      {
         "ConnectionStrings": {
            "DefaultConnection": "Server=localhost;Port=3306;database=jesse_white;uid=root;pwd=<password>;"
@@ -43,12 +50,21 @@ _Blind Cat Rescue takes in all types of animals, but has a soft spot for blind c
    - Note: `dotnet run` also restores and builds the project, so you can use this single command to start the console app
 6. Visit the application via web browser at: `http://localhost:5004/`
 
-### 📑 Documentation and Routes
+## 📑 Documentation and Routes
+
+### Swagger
+
 1. To access the Swagger Documentation for API calls for GET, PUT, and POST please see below:
  - Run the application within `{AnimalShelter.Solution/AnimalShelter}` in your command line.
  - Once the application is running access the swagger documentation for API calls, go to `http://localhost:5004/index.html`
     - You can also follow this link while the program is running [Swagger](http://localhost:5004/index.html).
-2. Direct routes without Swagger
+
+### Manual Routes
+
+- GET /api/animals
+- POST /api/animals
+- PUT /api/animals/{id}
+- DELETE /api/animals/{id}
 
 ## 🐛 Known Bugs
 * _There are no known bugs_
