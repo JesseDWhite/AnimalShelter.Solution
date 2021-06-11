@@ -76,6 +76,10 @@ _To access the Swagger Documentation for API calls for GET, PUT, and POST please
 - DELETE `/api/animals/{id}`
     - Remove an exsisting Animal from the API
 
+### Sample Search Query
+
+`http://localhost:5004/?animalName=biscuit&animalType=female&age=10`
+
 ### Sample JSON Response
 ```
 [
