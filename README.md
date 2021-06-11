@@ -1,7 +1,7 @@
 # _Blind Cat Rescue_ 🐱‍🏍
 #### _This is our 13th week project for Epicodus that covers the basics of creating an API._
 #### By _Jesse White_
-## Technologies Used
+## 👨‍💻 Technologies Used
 * 🆒 _C#_
 * 🥅 _.NET_
 * 💽 _MySql_
