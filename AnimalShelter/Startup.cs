@@ -39,7 +39,7 @@ namespace AnimalShelter
           Contact = new OpenApiContact
           {
             Name = "Jesse White",
-            Email = string.Empty,
+            Email = "jesse.white6@gmail.com",
             Url = new Uri("https://github.com/JesseDWhite")
           },
           License = new OpenApiLicense
