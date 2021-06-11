@@ -61,10 +61,14 @@ _Blind Cat Rescue takes in all types of animals, but has a soft spot for blind c
 
 ### Manual Routes
 
-- GET /api/animals
-- POST /api/animals
-- PUT /api/animals/{id}
-- DELETE /api/animals/{id}
+- GET `/api/animals`
+    - Returns all instances of Animal
+- POST `/api/animals`
+    - Creates a new instance of Animal
+- PUT `/api/animals/{id}`
+    - Edit an exsisting Animal
+- DELETE `/api/animals/{id}`
+    - Remove an exsisting Animal from the API
 
 ## 🐛 Known Bugs
 * _There are no known bugs_
