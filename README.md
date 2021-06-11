@@ -11,14 +11,14 @@
 _Blind Cat Rescue takes in all types of animals, but has a soft spot for blind cats. Use this API to access their inventory of current adoptable animals._
 ## Setup and Use 🏗
 
-### Prerequisites 💻
+### Prerequisites 🏫
 
 - [.NET 5 SDK](https://dotnet.microsoft.com/download/dotnet/5.0)
 - A text editor like [VS Code](https://code.visualstudio.com/)
 - A command line interface like Terminal or GitBash to run and interact with the console app.
 - [MySQL Community Server](https://dev.mysql.com/downloads/file/?id=484914)
 
-### Installation
+### Installation 📥
 
 1. Clone the repository: `$ git clone {https://github.com/JesseDWhite/AnimalShelter.Solution}`
 2. Navigate to the `{AnimalShelter.Solution}` directory on your computer
@@ -43,7 +43,7 @@ _Blind Cat Rescue takes in all types of animals, but has a soft spot for blind c
    - Note: `dotnet run` also restores and builds the project, so you can use this single command to start the console app
 6. Visit the application via web browser at: `http://localhost:5004/`
 
-### Documentation and Routes
+### Documentation and Routes 📑
 1. To access the Swagger Documentation for API calls for GET, PUT, and POST please see below:
  - Run the application within `{AnimalShelter.Solution/AnimalShelter}` in your command line.
  - Once the application is running access the swagger documentation for API calls, go to `http://localhost:5004/index.html`
