@@ -15,6 +15,9 @@ namespace AnimalShelter.Models
     public string AnimalType { get; set; }
 
     [Required]
+    public string Gender { get; set; }
+
+    [Required]
     public int Age { get; set; }
 
     [Required]
