@@ -10,7 +10,7 @@ using AnimalShelter.Models;
 namespace AnimalShelter.Controllers
 {
   [Route("api/[contoller]")]
-  [ApiContoller]
+  [ApiController]
   public class AnimalsController : ControllerBase
   {
     private readonly AnimalShelterContext _db;
