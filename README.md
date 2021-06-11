@@ -95,7 +95,7 @@ _To access the Swagger Documentation for API calls for GET, PUT, and POST please
 ```
 
 ## 🐛 Known Bugs
-* _There are no known bugs_
+* _Get random animal route does not work yet._
 ## ⚖ License
 _MIT © Jesse White 2021_
 ## 🤳 Contact Information

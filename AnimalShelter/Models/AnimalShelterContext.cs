@@ -26,7 +26,7 @@ namespace AnimalShelter.Models
         new Animal
         {
           AnimalId = 2,
-          AnimalName = "Hector",
+          AnimalName = "Fishbait",
           AnimalType = "Cat",
           Gender = "Male",
           Age = 3,

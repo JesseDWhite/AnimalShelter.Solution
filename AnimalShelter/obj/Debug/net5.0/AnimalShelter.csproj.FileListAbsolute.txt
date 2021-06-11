@@ -15,8 +15,6 @@ C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\ref\AnimalShelter.dll
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\AnimalShelter.pdb
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Humanizer.dll
-C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -27,11 +25,6 @@ C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\MySqlConnector.dll
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
@@ -39,7 +32,6 @@ C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\obj\Debug\net5.0\staticwebassets\AnimalShelter.StaticWebAssets.Manifest.cache
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\obj\Debug\net5.0\staticwebassets\AnimalShelter.StaticWebAssets.xml
 C:\Users\jesse\OneDrive\Desktop\Epicodus\13 week-thirteen\AnimalShelter.Solution\AnimalShelter\obj\Debug\net5.0\scopedcss\bundle\AnimalShelter.styles.css
