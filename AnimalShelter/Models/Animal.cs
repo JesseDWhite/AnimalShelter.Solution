@@ -18,6 +18,7 @@ namespace AnimalShelter.Models
     public string Gender { get; set; }
 
     [Required]
+    [Range(1, 100, ErrorMessage = "Age must be from 1 to 100.")]
     public int Age { get; set; }
 
     [Required]
