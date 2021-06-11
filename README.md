@@ -6,7 +6,7 @@
 * 🥅 _.NET_
 * 💽 _MySql_
 * 🎞 _Entity Framework_
-* 📄 _Swagger_
+* 🕺 _Swagger_
 ## 📜 Description
 _Blind Cat Rescue takes in all types of animals, but has a soft spot for blind cats. Use this API to access their inventory of current adoptable animals._
 ## 🏗 Setup and Use
@@ -52,23 +52,41 @@ _Blind Cat Rescue takes in all types of animals, but has a soft spot for blind c
 
 ## 📑 Documentation and Routes
 
-### Swagger
+### 🕺 Swagger
 
 1. To access the Swagger Documentation for API calls for GET, PUT, and POST please see below:
  - Run the application within `{AnimalShelter.Solution/AnimalShelter}` in your command line.
  - Once the application is running access the swagger documentation for API calls, go to `http://localhost:5004/index.html`
     - You can also follow this link while the program is running [Swagger](http://localhost:5004/index.html).
 
-### Manual Routes
+### 🖋 Manual Routes
 
 - GET `/api/animals`
     - Returns all instances of Animal
+
+- GET `/api/animals/{id}`
+    - Returns a single instance of Animal
+
 - POST `/api/animals`
     - Creates a new instance of Animal
+
 - PUT `/api/animals/{id}`
     - Edit an exsisting Animal
+
 - DELETE `/api/animals/{id}`
     - Remove an exsisting Animal from the API
+
+### Sample JSON Response
+```
+{
+  "AnimalId": 1,
+  "AnimalName": "Biscuit",
+  "AnimalType": "Cat",
+  "Gender": "Female",
+  "Age": 10,
+  "Description": "Loves long walks on the beach... and biscuits."
+}
+```
 
 ## 🐛 Known Bugs
 * _There are no known bugs_
