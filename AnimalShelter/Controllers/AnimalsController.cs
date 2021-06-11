@@ -57,8 +57,8 @@ namespace AnimalShelter.Controllers
     public async Task<ActionResult<Animal>> GetRandom(int id)
     {
       Random rnd = new Random();
-      id == rnd.Next(1, 10);
-      var animal = await _db.Animals.FindAsync(id);
+      int roll = rnd.Next(1, 7);
+      var animal = await _db.Animals.FindAsync(roll);
 
       if (animal == null)
       {
