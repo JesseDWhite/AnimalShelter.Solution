@@ -1,4 +1,4 @@
-# _Blind Cat Rescue_ 🐱‍🏍
+# _Blind Cat Rescue_ <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="40px">
 #### _This is our 13th week project for Epicodus that covers the basics of creating an API._
 #### By _Jesse White_
 ## 👨‍💻 Technologies Used
